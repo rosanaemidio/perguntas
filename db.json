@@ -1,4 +1,5 @@
-[
+{
+    "perguntas": [ 
     {
         "_id": 1,
         "pergunta": "O que essa pessoa costuma falar pra você? ",
@@ -36,3 +37,4 @@
         
     }
 ]
+}
